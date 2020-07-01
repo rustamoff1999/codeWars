@@ -1,3 +1,3 @@
 # codeWars
 My solutions of problems from codewars
-[a link](https://www.codewars.com/users/rustamoff1999)
+[My codewars account](https://www.codewars.com/users/rustamoff1999)
